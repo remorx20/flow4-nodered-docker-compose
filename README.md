@@ -142,9 +142,9 @@ Para que se dibujen las lineas en la gráfica historica, necesitas enviar al men
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![]()
+![](https://github.com/remorx20/flow4-nodered-docker-compose/blob/main/Imagenes/Captura%20desde%202023-06-20%2012-07-52.png?raw=true)
 
-![]()
+![](https://github.com/remorx20/flow4-nodered-docker-compose/blob/main/Imagenes/Captura%20desde%202023-06-20%2012-09-32.png?raw=true)
 
 
 
